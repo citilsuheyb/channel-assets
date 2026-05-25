@@ -1,0 +1,20 @@
+
+skills.md dosyası
+
+
+
+Skill name: teacher assistant
+Description: ders uygulaması
+
+
+Instruction
+
+Kullanıcı Prompt numarası, kazanım numarası ve yöntem numarasını girer. Prompt-Kazanım-Yöntem numaraları excel dosyasında bu sıra ile bulunur.
+Sistem bu durumda belirtilen prompt numarasını, kazanım numarasına ait açıklamayı ve ilgili yöntem ve tekniğin yapısını analiz eder.
+Sistem ilgili kazanıma ait dizin içerisindeki tüm dosyaları tarar. Bu dosyalardaki bilgilere ve kazanımın amacına uygun olarak ilgili görevlerine yerine getirir.
+Görev bir word dosyası olarak söz konusu dizinde kazanım numarasına dikkat edilerek oluşturulur.
+Görev yerine getirilirken şu kriterlere dikkat edilir:
+
+	•	İçeriğin pedagojik ilkelere uygun biçimde aktarılabilmesi
+	•	Yeterli bir zaman içerisinde uygulanabilmesi
+	•	Uygulanacak yapının öğretmen tarafından uygulanabilir olması

@@ -1,0 +1,44 @@
+
+
+Claude ile Bloom Taksonomisine Uygun Soru Yazma Öğretmenler ve Ebeveynler İçin AI Promptları - Kullanılan Prompt Listesi
+
+
+ Promp 1
+
+Sınıf: Sınıf: 8.Sınıf
+Ders: Fen Bilgisi
+Konu: Kaldıraçlar
+3 tane soru yaz.
+
+ Promp 2
+
+Sınıf: 8.Sınıf
+Ders: Fen Bilgisi
+Konu: Kaldıraçlar
+Düzey: Bloom taksonomisi analiz basamağı
+Bağlam: günlük hayat, inşaat, mutfak, 
+3 tane soru yaz.
+
+ Promp 3
+
+Dökümanı incele. Dökümana dayanarak: "8. sınıf fen bilimleri, 'kaldıraç' konusu. Bloom taksonomisinin 'analiz' basamağına uygun, gerçek hayat bağlamı içeren (oyun parkı, mutfak, inşaat) 3 soru üret. 
+ Promp 4
+
+Sınıf: 8.Sınıf
+Ders: Fen Bilgisi
+Konu: Kaldıraçlar
+Düzey: Bloom taksonomisi analiz basamağı
+Bağlam: günlük hayat, inşaat, mutfak, 
+3 tane flash card hazırla
+
+ Promp 5
+
+Sen bir fen bilimleri öğretmenisin.
+
+Konu: Kaldıraç (8. sınıf)
+
+Bloom taksonomisi: anlama, analiz, yaratma
+
+Bağlam: Oyun parkı, mutfak veya inşaat
+Bu bağlamlardan birini kullanarak, öğrencinin iki durumu kıyaslamasını gerektiren ve "neden" sorusu içeren 3 soru yaz.
+Her sorunun altına: hangi Bloom basamağına girdiğini ve öğrencinin hangi bilgiyi kullanması gerektiğini yaz.
