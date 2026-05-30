@@ -1,0 +1,180 @@
+
+
+
+Senaryo 1
+
+
+
+Bilimsel Araştırma Yöntemi Süreci
+
+1. Problem Belirleme: Araştırılacak konu veya sorun tanımlanır.
+2. Literatür Tarama: Konu ile ilgili mevcut çalışmalar incelenir.
+3. Hipotez Oluşturma: Probleme yönelik test edilebilir bir önerme geliştirilir.
+4. Araştırma Deseni Belirleme: Nicel, nitel veya karma yöntemlerden biri seçilir.
+5. Veri Toplama: Anket, gözlem, görüşme veya deneysel yöntemlerle veriler toplanır.
+6. Veri Analizi: Toplanan veriler istatistiksel veya tematik olarak analiz edilir.
+7. Bulguların Yorumlanması: Analiz sonuçları hipotezle karşılaştırılır.
+8. Raporlama: Araştırma süreci ve sonuçları akademik formatta yazılır.
+
+
+
+
+Senaryo 2
+
+Araştırma Metodolojisi Özeti
+
+Araştırma Deseni: İlişkisel tarama modeli
+Evren: Türkiye genelindeki devlet okullarında görev yapan öğretmenler
+Örneklem: 385 öğretmen, tabakalı örnekleme yöntemi
+Veri Toplama Araçları:
+- Teknoloji Kabul Ölçeği (18 madde, 5'li Likert)
+- Dijital Yeterlilik Ölçeği (24 madde, 5'li Likert)
+- Demografik Bilgi Formu (8 madde)
+Veri Analizi:
+- Betimsel istatistikler (ortalama, standart sapma)
+- Pearson korelasyon analizi
+- Çoklu doğrusal regresyon analizi
+- Yapısal eşitlik modellemesi (YEM)
+Etik: Üniversite etik kurul onayı ve il milli eğitim müdürlüğü izni alınmıştır.
+
+
+
+Senaryo 3
+
+
+Yapay Zekanın Kısa Tarihi
+
+1950: Alan Turing, "Makineler düşünebilir mi?" sorusunu sordu ve Turing Testini önerdi.
+1956: Dartmouth Konferansı — "Yapay Zeka" terimi ilk kez kullanıldı.
+1966: ELIZA — ilk doğal dil işleme programı geliştirildi.
+1997: IBM Deep Blue, dünya satranç şampiyonu Garry Kasparov'u yendi.
+2011: IBM Watson, Jeopardy yarışmasında insanları yendi.
+2012: Derin öğrenme devrimi — ImageNet yarışmasında AlexNet büyük fark yarattı.
+2016: Google DeepMind AlphaGo, Go oyununda dünya şampiyonunu yendi.
+2017: Transformer mimarisi tanıtıldı — modern dil modellerinin temeli atıldı.
+2022: ChatGPT yayınlandı — üretken yapay zeka kitleselleşti.
+2023: GPT-4, Claude 2, Gemini — çok modlu büyük dil modelleri dönemi başladı.
+2024-2026: Yapay zeka ajanları, otonom araştırma ve sektörel entegrasyonlar yaygınlaştı.
+
+
+
+
+Senaryo 4
+
+
+Göçebe Yaşam ve Yerleşik Yaşam Karşılaştırması
+
+Göçebe Yaşam:
+- Geçim Kaynağı: Hayvancılık ve avcılık
+- Barınak: Çadır, yurt gibi taşınabilir yapılar
+- Beslenme: Et, süt ve süt ürünleri ağırlıklı
+- Toplumsal Yapı: Boy ve oymak sistemi
+- Eğitim: Usta-çırak ilişkisi, sözlü gelenek
+- Coğrafya: Bozkır, step ve yaylalar
+
+Yerleşik Yaşam:
+- Geçim Kaynağı: Tarım ve ticaret
+- Barınak: Taş, kerpiç veya ahşap kalıcı evler
+- Beslenme: Tahıl, sebze ve meyve ağırlıklı
+- Toplumsal Yapı: Şehir devleti ve merkezi yönetim
+- Eğitim: Okullar, medreseler, yazılı kaynaklar
+- Coğrafya: Verimli ovalar ve nehir kenarları
+
+
+Senaryo 5
+
+
+Sayı Kümeleri ve Aralarındaki İlişki
+
+Doğal Sayılar (N):
+- 0, 1, 2, 3, 4, 5...
+- Sayma ve sıralama için kullanılır
+- En küçük doğal sayı 0'dır
+
+Tam Sayılar (Z):
+- ...-3, -2, -1, 0, 1, 2, 3...
+- Negatif sayıları, sıfırı ve pozitif sayıları içerir
+- Tüm doğal sayılar aynı zamanda tam sayıdır
+
+Rasyonel Sayılar (Q):
+- a/b şeklinde yazılabilen sayılar (b ≠ 0)
+- Kesirler, ondalık sayılar ve tam sayılar dahil
+- Tüm tam sayılar aynı zamanda rasyonel sayıdır
+
+İrrasyonel Sayılar (Q'):
+- a/b şeklinde yazılamayan sayılar
+- √2, √3, π gibi sayılar
+- Ondalık açılımları sonsuz ve düzensiz
+
+Reel Sayılar (R):
+- Rasyonel ve irrasyonel sayıların birleşimi
+- Sayı doğrusu üzerindeki tüm noktalar
+- Tüm sayı kümelerini kapsar
+
+
+
+Senaryo 6
+
+Osmanlı İmparatorluğu'nun Kuruluştan Yıkılışa Dönüm Noktaları
+
+1299: Osman Bey liderliğinde Osmanlı Beyliği kuruldu.
+1326: Bursa fethedilerek ilk başkent yapıldı.
+1361: Edirne fethedilerek başkent Edirne'ye taşındı.
+1453: İstanbul'un fethi — Doğu Roma İmparatorluğu sona erdi, başkent İstanbul oldu.
+1517: Mısır'ın fethi — Halifelik Osmanlı'ya geçti.
+1529: Birinci Viyana Kuşatması — Avrupa'daki genişlemenin sınırı.
+1683: İkinci Viyana Kuşatması — Osmanlı'nın Avrupa'daki geri çekilme süreci başladı.
+1839: Tanzimat Fermanı — Batılılaşma ve modernleşme dönemi başladı.
+1876: Birinci Meşrutiyet — İlk anayasa ilan edildi.
+1908: İkinci Meşrutiyet — Meclis yeniden açıldı.
+1914: Birinci Dünya Savaşı'na giriş.
+1920: TBMM'nin açılışı — Yeni Türk devletinin temeli atıldı.
+1922: Saltanatın kaldırılması — Osmanlı İmparatorluğu resmen sona erdi.
+
+
+Senaryo 7
+
+Akdeniz Diyetinin Temel Bileşenleri
+
+Her Gün Tüketilmesi Gerekenler:
+- Sebze ve meyve: Günde en az 5 porsiyon
+- Tam tahıllar: Esmer ekmek, bulgur, yulaf
+- Zeytinyağı: Ana yağ kaynağı olarak
+- Kuruyemişler: Bir avuç badem, ceviz veya fındık
+
+Haftada 2-3 Kez Tüketilmesi Gerekenler:
+- Balık ve deniz ürünleri
+- Baklagiller: Mercimek, nohut, fasulye
+- Yumurta
+
+Sınırlı Tüketilmesi Gerekenler:
+- Kırmızı et: Ayda 2-3 kez
+- İşlenmiş gıdalar: Mümkün olduğunca az
+- Şekerli içecekler: Tamamen kaçınılmalı
+
+
+Senaryo 8 
+
+Güneş Sistemindeki Gezegen Sınıflandırması
+
+İç Gezegenler (Kayaç Gezegenler):
+- Merkür: Güneş'e en yakın, atmosferi yok, en küçük gezegen
+- Venüs: En sıcak gezegen, yoğun karbondioksit atmosferi, ters yönde dönüş
+- Dünya: Sıvı su ve atmosfer sayesinde bilinen tek yaşanabilir gezegen
+- Mars: İnce atmosfer, kutuplarda buz, robotik keşif çalışmaları devam ediyor
+
+Dış Gezegenler (Gaz ve Buz Devleri):
+- Jüpiter: En büyük gezegen, 95 bilinen uydu, Büyük Kırmızı Leke fırtınası
+- Satürn: Belirgin halka sistemi, 146 bilinen uydu, düşük yoğunluk
+- Uranüs: Yan yatmış eksende dönüyor, metan atmosferi nedeniyle mavi-yeşil renk
+- Neptün: En güçlü rüzgarlar, en uzak gezegen, Büyük Karanlık Leke
+
+Cüce Gezegenler:
+- Plüton: 2006'da gezegen statüsünden çıkarıldı
+- Eris: Plüton'dan küçük ama daha ağır
+- Ceres: Asteroit kuşağındaki en büyük cisim
+
+
+
+
+
